@@ -1,31 +1,17 @@
-body {
-    background-color: lightblue;
-}
-
-h1 {
-    color: red;
-}
-
-#header {
-    border: 1px solid black;
-    margin-bottom: 50px;
+#AboutMePicture { 
     text-align: center;
+    border: 5px solid red;
 }
 
-#group1 {
-    background-color: white;
+#AboutMeParagraph {
+    text-align: center;
+    border: 5px solid black;
 }
 
-#group2 {
-    background: linear-gradient(#b19cd9, #008080);
+#Header{
+    border: 5px solid black;
 }
 
-.groups {
-    border: 1px solid black;
-    margin-top: -1px;
+.Header1 {
+    margin-right: 5px;
 }
-
-.groups img {
-    height: 200px;
-}
-
